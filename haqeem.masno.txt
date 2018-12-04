@@ -2,4 +2,13 @@ first update test
 
 revert to 1st
 
+# terang-cohort03-git
+Cohort 03 Git Exercise
+
+Exercise 1
+------
+* Git clone to your computer
+* cd into the newly created directory
+
+
 lalala
