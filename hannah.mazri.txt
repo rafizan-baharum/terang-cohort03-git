@@ -3,5 +3,6 @@ Add line
 Pull and push guna webstorm
 Before commit, pull dulu
 Annotate
+Try delete
 
 AISHAH
